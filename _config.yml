@@ -1,11 +1,11 @@
 # Site wide configuration
 
 title: "My Site"
-description: "This is a description of my awesome site."
+description: "Less is more, never settle"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url:xiaoqiangwen.github.io
 feed:
   path: atom.xml
 
@@ -26,8 +26,8 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name:XiaoqiangWen	
+  email:scientistxiao@163.com
   twitter:
   google:
     ad-client:
