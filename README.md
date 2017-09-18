@@ -22,3 +22,5 @@ I'm currently using a variation of it on my personal website [Made Mistakes](htt
     git commit -m "first commit"
     git remote add origin  https://github.com/XiaoqiangWen/XiaoqiangWen.github.io.git
     git push -u origin master
+	
+	git rm -rf 
